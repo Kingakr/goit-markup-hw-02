@@ -1,0 +1,42 @@
+body {
+    font-family: "roboto", "open-sans", "fredoka", sans-serif;
+    color: #2e2f42;
+    background-color: #ffffff;
+    line-height: 1.5;
+    font-style: normal;
+    font-weight: 400;
+}
+.page nav {
+    text-decoration: underline;
+}
+.page-nav .link:hover {
+    color: #ff18c5;
+}
+
+.page-nav .link:active {
+    color: #df1f1f;
+}
+.adress .link:hover {
+    color: #ff18c5;
+}
+.adress .link:active {
+    color: #df1f1f;
+}
+.section1 {
+    background-color: #2e2f42;
+}
+.title {
+    color: #ffffff;
+    font-weight: bold;
+    letter-spacing: 2%;
+    size: 56px;
+    line-height: 60px;
+}
+.cursor {
+    color: pointer;
+    font-weight: medium;
+    size: 16px;
+    Line Height: 24px;
+    letter-spacing: 2%;
+    
+}
