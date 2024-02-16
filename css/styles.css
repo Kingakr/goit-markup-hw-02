@@ -19,7 +19,7 @@ body {
     color: #404bbf;
 }
 
-.page-nav .link:active {
+.page-nav .link:focus {
     color: #404bbf;
 }
 .logo {
@@ -44,7 +44,7 @@ body {
 .adress-link .link:hover {
     color: #404bbf;
 }
-.adress-link .link:active {
+.adress-link .link:focus {
     color: #404bbf;
 }
 .header2 {
