@@ -38,10 +38,9 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.address-link .link:hover {
-    color: #404bbf;
-}
-.address-link .link:focus {
+.address-link:hover,
+.address-link:active,
+.address-link:focus {
     color: #404bbf;
 }
 .header2 {
