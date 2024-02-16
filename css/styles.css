@@ -34,17 +34,17 @@ body {
 .blue {
     color: #2e2f42;
 }
-.adress-link {
+.address-link {
     font-style: normal;
     color: inherit;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.adress-link .link:hover {
+.address-link .link:hover {
     color: #404bbf;
 }
-.adress-link .link:focus {
+.address-link .link:focus {
     color: #404bbf;
 }
 .header2 {
@@ -57,20 +57,33 @@ body {
     size: 20px;
     letter-spacing: 2%;
 }
-.section1 {
+.section {
     background-color: #2e2f42;
 }
 .title {
     color: #ffffff;
     font-weight: bold;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     size: 56px;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
 }
 .cursor {
-    color: inherit;
-    font-weight: medium;
-    size: 16px;
-    letter-spacing: 2%;
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.04em;
+    background-color: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    line-height: 1.5;
+}
+.cursor .link:hover {
+    background-color: #404bbf;
+}
+.cursor .link:focus {
+    background-color: #404bbf;
 }
 .section2 {
     background-color: #f4f4fd;
