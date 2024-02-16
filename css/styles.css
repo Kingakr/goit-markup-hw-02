@@ -96,10 +96,8 @@ body {
     font-family: "Roboto", sans-serif;
     line-height: 1.5;
 }
-.cursor .link:hover {
-    background-color: #404bbf;
-}
-.cursor .link:focus {
+.cursor:hover,
+.cursor:focus {
     background-color: #404bbf;
 }
 .section3 {
