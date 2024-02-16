@@ -1,5 +1,5 @@
 body {
-    font-family: "roboto", sans-serif;
+    font-family: "Roboto", "Fredoka", sans-serif;
     color: #434455;
     background-color: #ffffff;
     font-style: normal;
@@ -23,7 +23,7 @@ body {
     color: #404bbf;
 }
 .logo {
-    font-family: "Raleway", "open-sans", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -34,14 +34,18 @@ body {
 .blue {
     color: #2e2f42;
 }
-.adress {
+.adress-link {
+    font-style: normal;
     color: inherit;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
-.adress .link:hover {
-    color: #ff18c5;
+.adress-link .link:hover {
+    color: #404bbf;
 }
-.adress .link:active {
-    color: #df1f1f;
+.adress-link .link:active {
+    color: #404bbf;
 }
 .header2 {
     font-weight: bold;
