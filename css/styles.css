@@ -5,6 +5,9 @@ body {
     font-style: normal;
     font-weight: 400;
 }
+.body-class {
+    font-family: "Roboto", "Fredoka", sans-serif;
+}
 .page nav {
     text-decoration: underline;
     color: inherit;
