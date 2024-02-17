@@ -43,7 +43,7 @@ body {
 .address-link:focus {
     color: #404bbf;
 }
-.header2 {
+.sectionheader {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -100,7 +100,7 @@ body {
 .cursor:focus {
     background-color: #404bbf;
 }
-.section3 {
+.section {
     background-color: #f4f4fd;
 }
 .footer-background {
