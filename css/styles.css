@@ -4,9 +4,10 @@ body {
     background-color: #ffffff;
     font-style: normal;
     font-weight: 400;
+    text-decoration: none;
 }
-.page nav {
-    text-decoration: underline;
+.page-nav {
+    list-style: none;
     color: inherit;
 }
 .link {
@@ -30,6 +31,10 @@ body {
 }
 .blue {
     color: #2e2f42;
+}
+.adress-list {
+    list-style: none;
+    text-decoration: underline;
 }
 .address-link {
     font-style: normal;
